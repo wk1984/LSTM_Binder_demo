@@ -1,0 +1,10 @@
+name: demo-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - tensorflow
+  - scikit-learn
